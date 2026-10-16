@@ -79,7 +79,7 @@ body {
     margin-bottom: 14px;
     background: linear-gradient(
         90deg,
-        #ff6a88,
+        #72ff6a,
         #ffd166,
         #2ee6a6,
         #1fb6ff
@@ -157,7 +157,7 @@ body {
 
 /* ---------- 10. Number button colours ---------- */
 .key[data-value="1"] {
-    background: #1fb6ff;
+    background: #0096e1;
 }
 
 .key[data-value="2"] {
@@ -197,7 +197,7 @@ body {
 }
 
 .key[data-action="number"] {
-    color: #fff;
+    color: #b4b4b4;
 }
 
 /* ---------- 11. Special buttons ---------- */
